@@ -21993,7 +21993,7 @@ only screen and (max-width: 767px) {
 }
 
 .dashboard-info__card-value {
-  font-size: 40px;
+  font-size: 20px;
   font-weight: 500;
   line-height: 1;
   color: #252525;
@@ -22002,13 +22002,13 @@ only screen and (max-width: 767px) {
 @media only screen and (min-width: 992px) and (max-width: 1199px),
 only screen and (min-width: 768px) and (max-width: 991px) {
   .dashboard-info__card-value {
-    font-size: 34px;
+    font-size: 17px;
   }
 }
 
 @media only screen and (max-width: 767px) {
   .dashboard-info__card-value {
-    font-size: 26px;
+    font-size: 15px;
   }
 }
 
